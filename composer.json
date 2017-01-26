@@ -4,7 +4,8 @@
   },
   "autoload": {
     "psr-4": {
-      "FizzBuzz\\": "src"
+      "FizzBuzz\\": "src",
+      "FizzBuzz\\Test\\": "test"
     },
     "config":{
       "optimize-autoloader": true

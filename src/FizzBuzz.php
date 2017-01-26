@@ -7,15 +7,11 @@ class FizzBuzz
     const PRIMER_NUMERO_DE_LA_LISTA = 1;
     const ULTIMO_NUMERO_DE_LA_LISTA = 100;
 
-    public function __construct()
-    {
-        $this->visualizarLista();
-    }
 
     public function visualizarLista()
     {
         for ($numero = 1; $numero <= 100; $numero++) {
-            echo $this->mostrarValor($numero) . " ";
+            echo $this->mostrarValor($numero) . "\n";
         }
 
     }

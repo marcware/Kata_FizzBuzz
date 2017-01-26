@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=j6FyDzgZxXY
 
 http://www.solveet.com/exercises/Kata-FizzBuzz/11
 
+https://laracasts.com/series/code-katas-in-php/episodes/6
+
+https://github.com/djoos/Symfony2-coding-standard
+
 
 Imagínate el siguiente escenario. Tienes 11 años y en los últimos 5 minutos del final
 de la lección, tu profesor de matemáticas decide hacer la clase mas divertida, introduciendo un juego.

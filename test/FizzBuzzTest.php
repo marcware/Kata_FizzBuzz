@@ -53,8 +53,7 @@ class FizzBuzzTest extends \PHPUnit_Framework_TestCase
     /**
      * @test
      */
-    public function queValorMostar()
-    {
+    public function queValorMostar(){
         $this->assertEquals(1, $this->fizzBuzz->mostrarValor(1));
         $this->assertEquals(2, $this->fizzBuzz->mostrarValor(2));
         $this->assertEquals('Fizz', $this->fizzBuzz->mostrarValor(3));
