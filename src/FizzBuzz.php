@@ -13,7 +13,6 @@ class FizzBuzz
         for ($numero = 1; $numero <= 100; $numero++) {
             echo $this->mostrarValor($numero) . "\n";
         }
-
     }
 
     protected function siElValorDelRestoEsCeroEsDivisible($resto)
